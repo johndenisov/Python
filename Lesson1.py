@@ -4,6 +4,6 @@ if username == "Маша":
 elif username == "Марина":
     print("Я так вас ждал, Марина!")
 elif username == "Ильнар":
-    print("Ильнар - топ")
+    print("Ильнар - топчик")
 else:
     print("Привет, ", username)
