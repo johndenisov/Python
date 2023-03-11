@@ -6,4 +6,11 @@
 3 2 1 -> no
 """
 
+m = int(input("Введите число долек ")) 
+n = int(input("Введите число долек ")) 
+k = int(input("Введите число отломленных долек "))
 
+if k % m == 0 or k % n == 0:
+    print("yes")
+else:
+    print("no")
