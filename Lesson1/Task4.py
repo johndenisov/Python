@@ -5,3 +5,4 @@ num_a = (a+1)//2
 num_b = (b+1)//2
 num_c = (c+1)//2
 print(num_a+num_b+num_c)
+
